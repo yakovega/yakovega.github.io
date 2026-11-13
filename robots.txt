@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yakovega.github.io/pinat-hamischakim/sitemap.xml
